@@ -1,9 +1,11 @@
 # PruebaDomina
 
 ## Bajar repositorio
+```bash 
 mkdir PruebaDomina
 git clone https://github.com/MartinEmilio/PruebaDomina.git/
 cd PruebaDomina
+```
 
 ## Instalar Paquetes
 
