@@ -5,13 +5,13 @@ mkdir PruebaDomina
 git clone https://github.com/MartinEmilio/PruebaDomina.git/
 cd PruebaDomina
 
-## Installation Paquetes
+## Instalar Paquetes
 
 ```bash
 npm install && npm run dev
 ```
 
-## Running the app
+## Levantar la aplicacion
 
 ```bash
 php artisan serve
