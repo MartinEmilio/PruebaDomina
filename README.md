@@ -1,7 +1,18 @@
 # PruebaDomina
 
-# baja el respositorio de git y actualziar los paquetes
-npm install && npm run dev
+## Bajar repositorio
+mkdir PruebaDomina
+git clone https://github.com/MartinEmilio/PruebaDomina.git/
+cd PruebaDomina
 
-# para arrancar el servicio usuar este comando
+## Installation Paquetes
+
+```bash
+npm install && npm run dev
+```
+
+## Running the app
+
+```bash
 php artisan serve
+```
